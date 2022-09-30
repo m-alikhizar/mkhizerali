@@ -1,6 +1,5 @@
 <h1 align="center">Hello. I'm Khizer Ali</h1>
 <p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=mkhizerali" alt="mkhizerali" /> 
 <a href="https://stackshare.io/mkhizerali/stack"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="StackShare"></a>
 </p>
 <p align="center">TS/JS on WWW Frontend/Backend. A little bit of everything.</p> 
