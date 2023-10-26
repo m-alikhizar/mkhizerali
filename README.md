@@ -1,4 +1,4 @@
-<h1 align="center">Hello. I'm Khizer Ali</h1>
+<h1 align="center">Hello. I'm Ali</h1>
 <p align="center"> 
 <a href="https://stackshare.io/mkhizerali/stack"><img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="StackShare"></a>
 </p>
